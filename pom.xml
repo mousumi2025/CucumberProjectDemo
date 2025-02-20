@@ -71,16 +71,5 @@
 	    <artifactId>allure-cucumber7-jvm</artifactId>
 	    <version>2.29.1</version>
 	</dependency>
-
-
-
-
-
-
-	<dependency>
-		<groupId>FirstMavenProject</groupId>
-		<artifactId>FirstMavenProject</artifactId>
-		<version>1.0-SNAPSHOT</version>
-	</dependency>
   </dependencies>
 </project>
